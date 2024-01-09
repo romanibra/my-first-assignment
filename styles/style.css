@@ -3,7 +3,7 @@
   
 
 .container{
-  background-image: url('../B9A1-New-Year-New-Mission/resources/banneri.png');
+  background-image: url('../resources/banneri.png');
   width: 1320px;
 height: 600px;
 flex-shrink: 0;
