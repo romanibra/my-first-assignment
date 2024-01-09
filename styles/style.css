@@ -168,6 +168,91 @@ gap: 10px;
 border-radius: 8px;
 background: #F00;
 ; 
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+border: none;
 }
- 
- 
+.middle{
+  display: flex;
+  justify-content: space-around;
+  width: 1600px;
+height: 7335px;
+margin: 120px auto;
+background-color: #FFF;
+
+}
+ .middle .first h3{
+  color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+ }
+ .middle .first h2{
+  color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+ }
+.middle .first p{
+  color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+width: 393px;
+
+}
+.middle .first{
+  padding-right: 90px;
+}
+.first{
+  margin-left: 140px;
+}
+.happy-year h2 {
+  color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.happy-year p{
+  color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+width: 276px;
+margin-right: 100px;
+}
+ .fire img{
+  width: 463px;
+height: 463px;
+flex-shrink: 0;
+border-radius: 463px;
+border: 15px solid #F00;
+width: 364.844px;
+height: 364.844px;
+flex-shrink: 0;
+border-radius: 364.844px;
+/* background: url(<path-to-image>), lightgray -91.279px 0px / 150.038% 100% no-repeat; */
+padding: 30px;
+}
+.fire{
+  padding-right: 118px;
+}
