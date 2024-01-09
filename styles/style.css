@@ -182,7 +182,7 @@ border: none;
   display: flex;
   justify-content: space-around;
   width: 1600px;
-height: 7335px;
+
 margin: 120px auto;
 background-color: #FFF;
 
@@ -255,4 +255,201 @@ padding: 30px;
 }
 .fire{
   padding-right: 118px;
+}
+.Box-tittle h5{
+   
+  color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+/* font-weight: 500; */
+/* line-height: normal; */
+}
+ .Box-tittle p{color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; /* 160% */
+width: 1068px;
+ height: 96px;
+ margin: 0 auto;
+}
+.Box-tittle  { 
+  color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; /* 160% */
+}
+.Box-tittle h2{
+  
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+ 
+.gifts{
+  /* background: red; */
+  width: 896px;
+  margin: 0px auto;
+}
+
+.gifts .awesome .test p{
+  color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.gifts .awesome .test h2{
+  color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+
+
+text-transform: capitalize;
+}
+.squre{
+text-align: center;
+
+}
+.mother{
+  margin:120px auto ;
+  width: 1320px;
+height: 616px;
+flex-shrink: 0;
+border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+
+}
+.mother .messege img{
+  width: 150px;
+height: 150px;
+flex-shrink: 0;
+padding: 80px 585px 0px 585px;
+}
+.mother .all h3{
+  color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.mother .all p{
+  width: 896px;color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+padding: 0px 212px  ;
+}
+.mother .all .ff form{
+  width: 648px;
+
+flex-shrink: 0;
+}
+form{
+  max-width: 600px;
+  margin:20px auto ;
+  display: flex;
+  outline: none;
+}
+form input{
+  width: 500px;
+height: 40px;
+flex-shrink: 0;
+border-radius:50px 0px 0px 50px;
+background: #FFF;
+}
+ form button{
+  width: 210px;
+height: 45px;
+flex-shrink: 0;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+}
+footer{
+  background-color: rgb(0, 0, 0);
+   width: 1300px;
+height: 500px;
+flex-shrink: 0;
+margin: 0px auto;
+}
+ .big .street{
+  color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+width:378px ;
+height:80px ;
+padding-top:120px ;
+}
+.big .www{
+  color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+width:338px ;
+height:50px ;
+padding-top:120px ;
+}
+.big{
+  display: flex;
+  justify-content: space-around;
+  
+}
+.end .insta {
+  text-align: center;
+ 
+}
+.finish{
+ display: flex;
+  justify-content: space-around;
+}
+.finish .all{
+  color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+width:338px ;
+height:50px ;
+
+}
+.finish .un{
+  color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+width:338px ;
+height:50px ;
+
+
 }
